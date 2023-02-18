@@ -1,1 +1,3 @@
 print 
+set
+globals
